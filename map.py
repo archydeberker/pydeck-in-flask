@@ -1,6 +1,4 @@
 import pydeck as pdk
-import pandas as pd
-import math
 
 LONDON = [51.50, -0.12]
 
