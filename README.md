@@ -3,9 +3,9 @@
 This is an example of plotting a [Pydeck](https://pydeck.gl/index.html) map in Flask.
 
 It plots all (~1200) electric car charging stations in the UK. The data comes from 
-[gov.uk]('https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints).
+[gov.uk](https://www.gov.uk/guidance/find-and-use-data-on-public-electric-vehicle-chargepoints).
 
-For another example, see Trip Carbon Calculator.  
+For another example, see [Trip Carbon Calculator](https://github.com/archydeberker/trip-carbon-calculator).  
 
 ## Installation
 
